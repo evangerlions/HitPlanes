@@ -662,4 +662,4 @@ public class GameView extends View {
     }
 }
 
-//by Zhoukai version 0.3, 2017.11.12
+//by Zhoukai version 0.4, 2017.11.12
